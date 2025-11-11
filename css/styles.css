@@ -228,9 +228,7 @@ a{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    text-transform: capitalize;
-   
-    
+    text-transform: capitalize;   
 }
 .team-list{
     display: flex;
@@ -254,8 +252,7 @@ a{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
-    
+    color: #2e2f42;    
 }
 .paragraph-team{
     font-size: 16px;
@@ -270,8 +267,7 @@ a{
    }
 .social-item{
     width: 40px;
-    height: 40px;
-      
+    height: 40px;     
 }
 .social-link{
     display: flex;
