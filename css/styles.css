@@ -258,6 +258,11 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.cosial-networks{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
 /*Portfolio*/
 .page-portfolio{
     padding-top: 120px;
