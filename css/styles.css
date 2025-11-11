@@ -276,8 +276,7 @@ a{
     background-color: #4D5AE5;
     border-radius: 50%;
     align-items: center;
-    justify-content: center;
-    transition:  250ms cubic-bezier(0.4, 0, 0.2, 1);      
+    justify-content: center;     
 }
 .social-link:focus, 
 .social-link:hover{
@@ -286,6 +285,7 @@ a{
 
 .social-icon{
     fill: #f4f4fd;
+    transition:  250ms cubic-bezier(0.4, 0, 0.2, 1);    
 }
 /*Portfolio*/
 .page-portfolio{
