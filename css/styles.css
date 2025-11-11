@@ -264,16 +264,14 @@ a{
     justify-content: center;
     gap: 24px;
    }
-.social-icon{
+.social-item{
     width: 40px;
     height: 40px;
     background-color: #4D5AE5;
-    border-radius: 50%;
-    fill: white;
+    border-radius: 50%;   
 }
 .social-link:focus, .social-link:hover{
     background-color: #404bbf;
-
 }
 .social-link{
     width: 100%;
@@ -283,6 +281,9 @@ a{
     justify-content: center;
     border-radius: 50%;
     background-color: #4d5ae5;
+}
+.social-icon{
+    fill: white;
 }
 /*Portfolio*/
 .page-portfolio{
