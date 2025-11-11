@@ -259,9 +259,8 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.cosial-networks{
+.social-networks{
     display: flex;
-    align-items: center;
     justify-content: center;
     gap: 24px;
    }
@@ -270,11 +269,9 @@ a{
     height: 40px;
     background-color: #4D5AE5;
     border-radius: 50%;
-    justify-content: center;
-    align-items: center;
     fill: white;
 }
-.social-icon:focus, .social-icon:hover{
+.social-link:focus, .social-link:hover{
     background-color: #404bbf;
 
 }
@@ -284,6 +281,8 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
+    background-color: #4d5ae5;
 }
 /*Portfolio*/
 .page-portfolio{
