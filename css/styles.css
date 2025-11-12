@@ -347,7 +347,7 @@ a{
     position: relative;
     overflow: hidden;
 }
-.image-portfolio:hover{
+.image-portfolio:hover .paragraph-overlay{
     transform: translateY(0%);
 }
 
