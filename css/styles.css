@@ -338,7 +338,7 @@ a{
     height: 100%;
     overflow: auto;
 }
-.image-portfolio{
+.image-portfolio:hover{
     transform: translateY(0%)
 }
 /*footer*/
