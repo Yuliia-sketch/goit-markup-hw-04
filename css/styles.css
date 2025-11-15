@@ -352,6 +352,10 @@ a{
 }
 
 /*footer*/
+.footer-container{
+    display: flex;
+    align-items: baseline;
+}
 .page-footer{
     padding-top: 100px;
     padding-bottom: 100px;
