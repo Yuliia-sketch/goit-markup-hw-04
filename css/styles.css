@@ -19,7 +19,7 @@ a{
     text-decoration: none;
 }
 /*common*/
-.container{
+.container, .footer-container{
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
@@ -352,7 +352,7 @@ a{
 }
 
 /*footer*/
-.page-footer .container{
+.footer-container{
     display: flex;
     align-items: baseline;
 }
